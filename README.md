@@ -2,7 +2,7 @@ Taskmaster is an app where you can organize your day, keep track of what needs t
 
 Taskmaster provides users with the ability to:
 
-* Create, edit, and delete tasks in a few taps;
+* Create and delete tasks in a few taps;
 * Keep tasks organized and easy to scan, so you always know what's next;
 * Use the app on any device - Android, iOS, Windows, macOS, Linux, and the web - with one shared codebase behind all of them.
 
@@ -10,7 +10,7 @@ It is designed for anyone who wants a lightweight, no-fuss to-do list - no accou
 
 ## Functionalities
 
-* Add, edit, and delete tasks
+* Add, and delete tasks
 * Mark tasks as complete
 * Cross-platform support (Android, iOS, Windows, macOS, Linux, Web)
 * Clean, minimal interface
